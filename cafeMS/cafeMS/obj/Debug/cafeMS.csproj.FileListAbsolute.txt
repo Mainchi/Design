@@ -1,0 +1,15 @@
+C:\Users\Ralph\Documents\SharpDevelop Projects\cafeMS\cafeMS\obj\Debug\cafeMS.csprojResolveAssemblyReference.cache
+C:\Users\Ralph\Documents\SharpDevelop Projects\cafeMS\cafeMS\obj\Debug\cafeMS.AddItem.resources
+C:\Users\Ralph\Documents\SharpDevelop Projects\cafeMS\cafeMS\obj\Debug\cafeMS.MainForm.resources
+C:\Users\Ralph\Documents\SharpDevelop Projects\cafeMS\cafeMS\obj\Debug\cafeMS.csproj.GenerateResource.Cache
+C:\Users\Ralph\Documents\SharpDevelop Projects\cafeMS\cafeMS\bin\Debug\cafeMS.exe.config
+C:\Users\Ralph\Documents\SharpDevelop Projects\cafeMS\cafeMS\bin\Debug\cafeMS.exe
+C:\Users\Ralph\Documents\SharpDevelop Projects\cafeMS\cafeMS\bin\Debug\cafeMS.pdb
+C:\Users\Ralph\Documents\SharpDevelop Projects\cafeMS\cafeMS\obj\Debug\cafeMS.exe
+C:\Users\Ralph\Documents\SharpDevelop Projects\cafeMS\cafeMS\obj\Debug\cafeMS.pdb
+C:\Users\Ralph\Documents\SharpDevelop Projects\cafeMS\cafeMS\obj\Debug\cafeMS.AdminSection.resources
+C:\Users\Ralph\Documents\SharpDevelop Projects\cafeMS\cafeMS\obj\Debug\cafeMS.LoginForm.resources
+C:\Users\Ralph\Documents\SharpDevelop Projects\cafeMS\cafeMS\obj\Debug\cafeMS.RegisterUser.resources
+C:\Users\Ralph\Documents\SharpDevelop Projects\cafeMS\cafeMS\obj\Debug\cafeMS.RegisterAdmin.resources
+C:\Users\Ralph\Documents\SharpDevelop Projects\cafeMS\cafeMS\obj\Debug\cafeMS.Fpass.resources
+C:\Users\Ralph\Documents\SharpDevelop Projects\cafeMS\cafeMS\obj\Debug\cafeMS.NewPass.resources
